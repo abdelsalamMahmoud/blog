@@ -101,11 +101,8 @@ CREATE TABLE posts (
 - CSRF Protection for forms
 - Laravel UI Auth for authentication
 
-## 7. Database Schema
-*(Include your schema diagram here if needed)*
-
-## 8. GitHub Repository
+## 7. GitHub Repository
 [Project Repository](https://github.com/abdelsalamMahmoud/blog.git)
 
-## 9. Video Presentation
+## 8. Video Presentation
 [Watch the Project Presentation](https://youtu.be/6QPey813mh8)
