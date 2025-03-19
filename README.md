@@ -106,3 +106,6 @@ CREATE TABLE posts (
 
 ## 8. Video Presentation
 [Watch the Project Presentation](https://youtu.be/6QPey813mh8)
+
+## 9.Database Schema 
+[shema](database.jpg)
